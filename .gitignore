@@ -1,0 +1,9 @@
+*.csproj
+*.sln
+Library
+Temp
+obj
+Build
+.vs
+BacktraceClientConfiguration.txt
+Requests-bodies.txt
